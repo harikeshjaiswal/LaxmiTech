@@ -1,5 +1,5 @@
 {
-    "routes": [
+    "_routes": [
         {
             "route": "/*",
             "rewrite": "/maintenance.html"
